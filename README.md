@@ -8,4 +8,6 @@ There is nothing you need to do specifically to set up the code itself. It's ful
 **You _WILL_ need to generate an app password from Google if you use Two-Step Authentication!**
 
 Just go to [this](https://myaccount.google.com) website and go to the *Security* page.
-In the *'logging into google'* box, click *app passwords*. Generate a new one, and enter it when prompted.
+In the *'logging into google'* box, click *app passwords*. Generate a new one, and enter it when prompted when running the py file!
+
+Hope you guys enjoy!!
